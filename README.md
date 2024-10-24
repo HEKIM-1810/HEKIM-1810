@@ -50,6 +50,13 @@ Here are some ideas to get you started:
 
 <br>
 
+<div align="left">
+  <img src="https://img.shields.io/badge/miricanvas-03C75A.svg?style=for-the-badge&logo=canvas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
+</div>
+
+<br>
+
 <h3 align="left">📫 Contact 📫</h3>
 <div align="left">
   <a href="https://velog.io/@quokka_kim">
