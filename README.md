@@ -49,11 +49,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
-
 <br>
 
 <div align="left">
@@ -66,7 +61,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">📫 Contact 📫</h3>
 <div align="left">
-  <a href="https://velog.io/@oka1313">
+  <a href="https://velog.io/@quokka_kim">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="mailto:hekim12437@gmail.com">
