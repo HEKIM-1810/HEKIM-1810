@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요, 김희은입니다 👋
 
 <!--
 **HEKIM-1810/HEKIM-1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,28 +21,24 @@ Here are some ideas to get you started:
 
 
 
+
+
 </div>
 
 <!--내용 부분-->
-<h3 align="left">✨ Tech Stack ✨</h3>
+<h3 align="left">✨ Tech Stack & Tools ✨</h3>
 <br>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
 </div>
-
 <br>
-
-<h3 align="left">🛠 Tools 🛠</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
-
 <br>
 
 <div align="left">
@@ -59,6 +55,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
 </div>
 
+
 <br>
 
 <h3 align="left">📫 Contact 📫</h3>
@@ -66,10 +63,9 @@ Here are some ideas to get you started:
   <a href="https://velog.io/@quokka_kim">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:hekim12437@gmail.com">
-    <img
-      src="https://img.shields.io/badge/hekim12437@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
+  <a href="hekim12437@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hekim12437@gmail.com"/></a>
+  </p>
+
 
 
 
