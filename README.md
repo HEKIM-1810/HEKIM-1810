@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 <!--내용 부분-->
 <h3 align="left">✨ Tech Stack & Tools ✨</h3>
-<br>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
