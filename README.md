@@ -58,9 +58,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">📫 Contact 📫</h3>
 <div align="left">
-  <a href="https://velog.io/@quokka_kim">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=flat-square&logo=velog&logoColor=white" />&nbsp
-  </a>
   <a href="hekim12437@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hekim12437@gmail.com"/></a>
   </p>
 
