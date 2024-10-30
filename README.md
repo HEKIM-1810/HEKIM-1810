@@ -61,6 +61,11 @@ Here are some ideas to get you started:
   <a href="hekim12437@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hekim12437@gmail.com"/></a>
   </p>
 
-
+<h3 align="left">💻 Project 💻 </h3>
+ 📁 서울시 커피 소비량 분석 <br>
+ 📁 버스 정류소 위치 추천 <br>
+ 📁 호텔 어플리케이션 리뷰 기반 목적에 맞는 호텔 추천 <br>
+ 📁 개인화 마케팅 기반 신상품 및 서비스 제안 / 농협양곡 🏆 <br>
+ 📁 장애인 전동보장구 급속충전소 최적 입지선정 / 데이터진흥원 NIA 🏆 <br>
 
 
