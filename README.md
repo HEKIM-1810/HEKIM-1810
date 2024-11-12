@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 <br>
 
 <div align="left">
-  <img src="https://img.shields.io/badge/miricanvas-03C75A.svg?style=flat-square&logo=canvas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/slack-4A154B.svg?style=flat-square&logo=slack&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/miricanvas-03C75A.svg?style=flat-square&logo=canvas&logoColor=white" />&nbsp
 </div>
 
 
