@@ -1,4 +1,4 @@
-## 안녕하세요, 김희은입니다 👋
+## 안녕하세요, Data Analyst 김희은입니다 👋
 
 <!--
 **HEKIM-1810/HEKIM-1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
