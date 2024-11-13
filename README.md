@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<h3 align="left">✨ Tech Stack & Tools ✨</h3>
+<h3 align="left"> Tech Stack & Tools </h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
