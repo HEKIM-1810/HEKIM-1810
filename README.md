@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!--내용 부분-->
 
-<h3 align="left">💻 Project 💻 </h3>
+<h3 align="left">💻 Project </h3>
  📁 서울시 커피 소비량 분석 <br>
  📁 친환경 버스 정류소 설치 위치 추천 <br>
  📁 호텔 어플리케이션 리뷰 기반 목적에 맞는 호텔 추천 <br>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<h3 align="left"> Tech Stack & Tools </h3>
+<h3 align="left"> 🔨 Tech Stack & Tools </h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align="left">📫 Contact 📫</h3>
+<h3 align="left">📫 Contact </h3>
 <div align="left">
   <a href="hekim12437@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hekim12437@gmail.com"/></a>
   </p>
