@@ -29,45 +29,59 @@ Here are some ideas to get you started:
 <br>
 
 
-<h3 align="left"> 🔨 Tech Stack & Tools </h3>
-
+<h3 align="left">🐍 Programming Languages & Libraries</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat-square&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=flat-square&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat-square&logo=Matplotlib&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-</div>
-<br>
-<div align="left">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat-square&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=flat-square&logo=jupyter&logoColor=F37726" />&nbsp
-<!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=flat-square&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=Matplotlib&logoColor=white" />&nbsp;
 </div>
 
-<br>
-
+<h3 align="left">💾 Databases</h3>
 <div align="left">
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/slack-4A154B.svg?style=flat-square&logo=slack&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/miricanvas-03C75A.svg?style=flat-square&logo=canvas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />&nbsp;
+</div>
+
+<h3 align="left">🛠️ Development Tools</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/cursor-00A36C?style=flat-square&logo=cursor&logoColor=white" />&nbsp;
 </div>
 
 
-<br>
+<h3 align="left">👥 Collaboration & Project Management</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" />&nbsp;
+</div>
 
+<h3 align="left">📊 Data Visualization & Design</h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Redash-FF6B6B?style=flat-square&logo=redash&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/miricanvas-03C75A?style=flat-square&logo=canvas&logoColor=white" />&nbsp;
+</div>
+
+<br>
 <h3 align="left">📫 Contact </h3>
 <div align="left">
-  <a href="hekim12437@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hekim12437@gmail.com"/></a>
-  </p>
-
+  <a href="mailto:hekim12437@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://grossquokka.tistory.com/)"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+</div>
 
 <br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HEKIM-1810&layout=compact) 
 
-컨플,지라, redash, powerbi
+
