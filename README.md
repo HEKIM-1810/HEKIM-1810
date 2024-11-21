@@ -75,8 +75,8 @@ Here are some ideas to get you started:
 <h3 align="left">📫 Contact </h3>
 <div align="left">
   <a href="mailto:hekim12437@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://grossquokka.tistory.com/)"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <a href="https://grossquokka.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/heeeun-kim-77b727292/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 </div>
 
 <br>
