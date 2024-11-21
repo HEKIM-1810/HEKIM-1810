@@ -67,6 +67,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Redash-FF6B6B?style=flat-square&logo=redash&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />&nbsp;
+ <img src="https://img.shields.io/badge/Google%20Slides-FBBC04?style=flat-square&logo=google-slides&logoColor=white" />&nbsp;
 </div>
 
 <br>
