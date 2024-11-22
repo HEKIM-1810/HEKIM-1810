@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<h3 align="left">🐍 Programming Languages & Libraries</h3>
+<h4 align="left">🐍 Programming Languages & Libraries</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />&nbsp;
@@ -37,14 +37,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=Matplotlib&logoColor=white" />&nbsp;
 </div>
 
-<h3 align="left">💾 Databases</h3>
+<h4 align="left">💾 Databases</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />&nbsp;
 </div>
 
-<h3 align="left">🛠️ Development Tools</h3>
+<h4 align="left">🛠️ Development Tools</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />&nbsp;
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </div>
 
 
-<h3 align="left">👥 Collaboration & Project Management</h3>
+<h4 align="left">👥 Collaboration & Project Management</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white" />&nbsp;
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" />&nbsp;
 </div>
 
-<h3 align="left">📊 Data Visualization & Design</h3>
+<h4 align="left">📊 Data Visualization & Design</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Redash-FF6B6B?style=flat-square&logo=redash&logoColor=white" />&nbsp;
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<h3 align="left">📫 Contact </h3>
+<h4 align="left">📫 Contact </h3>
 <div align="left">
   <a href="mailto:hekim12437@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp;
   <a href="https://grossquokka.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>&nbsp;
